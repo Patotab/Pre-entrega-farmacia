@@ -5,3 +5,6 @@ Arme la pre-entrega de la web como para una farmacia o e-commerce farmaceutico, 
 ## El proyecto incluye:
 - HTML5 (Estructura semántica básica)
 - CSS3 (Estilos propios con Flexbox para que las tarjetas queden bien)
+
+## Link
+https://patotab.github.io/Pre-entrega-farmacia/#inicio
